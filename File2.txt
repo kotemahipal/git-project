@@ -1,3 +1,8 @@
-'To Fix the bug1'
+
+
  
-Change for WI4 by teammate for rebase with conflict
+
+1. 'To Fix the bug1. '
+2.change for WI4 by teammate for rebase with coflict .
+3. change for rebase on CR2.
+
