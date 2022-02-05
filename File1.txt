@@ -1,13 +1,15 @@
 Hello world!!!!
 
 
-Change  : - added for login feature.
+Change  1: - added for login feature.
 
-Change : - done by team for WI3.
+Change 2: - done by team for WI3.
 
-change :- for the bug2. 
+change 3:- for the bug2. 
 
-Change :- for stash  test forWI5 i n progress
+Change 4:- for stash  test forWI5 i n progress
 
-Change : for WI6 on local master to test normal.
+Change 5: for WI6 on local master to test normal.
+
+Change 5: by team mate on remote master for bug3
 
